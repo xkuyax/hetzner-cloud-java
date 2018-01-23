@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <version>1.0-SNAPSHOT</version>
-    <groupId>me.xkuyax</groupId>
+    <groupId>de.hetzner.cloud-api</groupId>
     <artifactId>hetzner-cloud-api</artifactId>
     <packaging>jar</packaging>
 
